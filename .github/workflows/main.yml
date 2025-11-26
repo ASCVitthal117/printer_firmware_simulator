@@ -1,4 +1,3 @@
-yaml
 name: Printer Firmware CI
 
 on:
